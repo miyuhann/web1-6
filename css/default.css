@@ -44,9 +44,9 @@ body{
       .btn {
        -wedkit-appearance: none;
        -wedkit-border-radius: 0;
-       margin: 5px;
-       width: 100px;
-       height: 40px;
+       margin: 4px;
+       width: 90px;
+       height: 38px;
        padding: 10px;
        border: none;
        font-size: 16px;
@@ -61,7 +61,7 @@ body{
         }
         
         .btn-submit{
-        background-color: silver;
+        background-color: bule;
         }
         
         .btn-reset{
